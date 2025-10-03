@@ -1,0 +1,12 @@
+{
+  "name": "alice-thunder-skill",
+  "version": "1.0.0",
+  "description": "Сервер для навыка Гром и Молния",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
